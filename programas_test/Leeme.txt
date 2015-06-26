@@ -1,0 +1,3 @@
+Todos los tests, salvo el 14, son los mismos que se pedían pasar durante el proyecto.
+
+Se incluye el código del test 14, que es una pequeña extensión del 13.

@@ -1,0 +1,46 @@
+Nota: existe un bug con la memoria, antes de bootar el programa se escriben 1 o 2 bytes en memoria. 
+		Explicado en la memoria del proyecto.
+
+
+Instrucciones				Estado
+Op. Logicas y aritmetias
+AND							Funciona
+OR							Funciona
+XOR							Funciona
+NOT							Funciona
+ADD							Funciona
+SUB							Funciona
+SHA							Funciona
+SHL							Funciona
+
+Comparaciones
+CMPLT						Funciona
+CMPLE						Funciona
+CMPEQ						Funciona
+CMPLTU						Funciona
+CMPLEU						Funciona
+
+ADDI						Funciona
+LD							Funciona
+LDB							Funciona
+ST							Funciona
+STB							Funciona
+MOVI						Funciona
+MOVHI						Funciona
+BZ							Funciona
+BNZ							Funciona
+IN 							Funciona
+OUT							Funciona
+
+Extension aritmetica
+MUL							Funciona
+MULH						Funciona
+MULHU						Funciona
+DIV							Funciona
+DIVU						Funciona
+
+Ruptura de secuencia
+JZ							Funciona
+JNZ							Funciona
+JMP							Funciona
+CALL						Funciona
